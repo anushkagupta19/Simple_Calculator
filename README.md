@@ -27,7 +27,8 @@ calculator/
    git clone https://github.com/your-username/simple-calculator.git
    cd simple-calculator
 
-2. python calculator.py
+2. Run the application:
+python calculator.py
 
 
 🙋‍♀️ Author - Anushka Gupta
