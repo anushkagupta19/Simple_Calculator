@@ -28,6 +28,7 @@ calculator/
    cd simple-calculator
 
 2. Run the application:
+```bash
 python calculator.py
 
 
