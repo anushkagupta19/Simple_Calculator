@@ -30,9 +30,8 @@ calculator/
 2. Run the application:
 ```bash
 python calculator.py
-
-
-🙋‍♀️ Author - Anushka Gupta
+```
+3. Author - Anushka Gupta
 
 
 
